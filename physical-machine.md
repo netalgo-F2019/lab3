@@ -14,5 +14,5 @@
 
 ​	每台服务器有一个网卡(eno1)用于通信，剩余3个网卡(eno2, eno3, eno4)与另一台服务器对应直连，用于实验。网口连接示意图如下：
 
-<img src="topology.png">
+![alt](https://raw.githubusercontent.com/miigao/misc/master/network-topology.png)
 
