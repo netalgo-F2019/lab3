@@ -162,6 +162,13 @@ lcore_main(void)
 	printf("\nSimpleDNS (using DPDK) is running...\n");
 	/* Run until the application is quit or killed. */
 	for (;;) {
+		
+		
+		//Add your code here.
+		//Part 0.
+		
+		
+		
 		/*********preparation (begin)**********/
 		free_questions(msg.questions);
 		free_resource_records(msg.answers);
